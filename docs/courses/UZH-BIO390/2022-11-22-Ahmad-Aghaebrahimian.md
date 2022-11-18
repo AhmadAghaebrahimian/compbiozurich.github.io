@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: Components of the Semantic web
+title: Semantic Web
 description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y03-G-85
 date: 2022-11-22
 authors:
@@ -8,7 +8,7 @@ authors:
 pdf_file_name:
 links:  # one or more formatted html links
   - '<a href="https://bit.ly/3wjyHpf">SPARQL example</a>'
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10.pdf">[2021 slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10.pdf">[2022 slides]</a>'
 ---
 
 #### Ahmad Aghaebrahimian (ZHAW)
